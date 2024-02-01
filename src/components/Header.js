@@ -140,7 +140,7 @@ export default function Header() {
             Attractions
           </a>
           <a href="#" className="text-sm font-semibold leading-6 text-white">
-            Flight + Hotel
+            Flight + Hotel 
           </a>
         </Popover.Group>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
